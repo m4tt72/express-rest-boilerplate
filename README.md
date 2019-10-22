@@ -6,7 +6,6 @@ This is a boilerplate project using [express.js](https://expressjs.com)
 
 ## Features
 
-* Uses [typescript](https://www.typescriptlang.org/).
 * Very simple routing system
 * CORS Enabled
 * Logging with [morgan](https://github.com/expressjs/morgan)
